@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<title>Registration Form</title>
+    <meta charset="utf-8">
+    <title>Registration Form</title>
 </head>
 <body>
 
@@ -119,8 +119,8 @@
         <label >Religion</label>
         <select name="regions" >
             <option >Select one</option>
-        	<option  >Muslim</option>
-        	<option >Hindu</option>
+            <option  >Muslim</option>
+            <option >Hindu</option>
     
         </select>
         <span style="color: red;"> * <?php echo $regionsEr;  ?></span>
@@ -162,17 +162,17 @@
     </form>
     <?php 
     
-		echo  input($fname) ."<br>";
-		echo input($fname1). "<br>";
-		echo input($gender) ."<br>";
-		echo input($dob) ."<br>";
-		echo input($regions) ."<br>";
-		echo input($address1) ."<br>";
-		echo input($address2) ."<br>";
-		echo input($phone) ."<br>";
-		echo input($email) ."<br>";
-		echo input($userName) ."<br>";
-		echo input($Password) ."<br>";
+        echo  input($fname) ."<br>";
+        echo input($fname1). "<br>";
+        echo input($gender) ."<br>";
+        echo input($dob) ."<br>";
+        echo input($regions) ."<br>";
+        echo input($address1) ."<br>";
+        echo input($address2) ."<br>";
+        echo input($phone) ."<br>";
+        echo input($email) ."<br>";
+        echo input($userName) ."<br>";
+        echo input($Password) ."<br>";
     ?>
 </body>
 </html>
