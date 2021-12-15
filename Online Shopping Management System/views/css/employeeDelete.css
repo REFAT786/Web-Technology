@@ -1,0 +1,40 @@
+.middel{
+	padding: 30px;
+}
+td{
+	padding: 10px;
+}
+.middel input{
+	border: none;
+	background-color: #FAFAFA;
+}
+.middel tbody td{
+	background-color: #FAFAFA;
+}
+.own2 input{
+	padding: 10px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	font-size: 20px;
+}
+form{
+	font-size: 20px;
+}
+.own2 .done{
+	cursor: pointer;
+	padding: 20px;
+	background-color: black;
+	color: white;
+	border-color: black;
+	border: 2px black solid;
+
+}
+.own2 .done:hover{
+	
+	background-color: orangered;
+	color: black;
+}
+.own2{
+	background-color: #FAFAFA;
+}

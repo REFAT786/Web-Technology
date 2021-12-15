@@ -1,0 +1,24 @@
+.adminForm{
+	background-color: whitesmoke;
+}
+.adminLogin{
+	font-size: 20px;
+}
+.loginButton{
+	font-size: 20px;
+	padding: 10px 50px 10px 50px;
+	background-color: lightblue;
+}
+
+.textbox{
+	border-top: hidden;
+	border-right: hidden;
+	border-left: hidden;
+}
+
+a{
+	opacity: 0.9;
+}
+a:hover{
+	opacity: 1;
+}

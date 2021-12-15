@@ -1,0 +1,28 @@
+.own input{
+	padding: 10px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	font-size: 20px;
+}
+form{
+	font-size: 20px;
+}
+
+.own .done{
+	cursor: pointer;
+	padding: 20px;
+	background-color: black;
+	color: white;
+	border-color: black;
+	border: 2px black solid;
+
+}
+.own .done:hover{
+	
+	background-color: darkgreen;
+	color: black;
+}
+.own{
+	background-color: #FAFAFA;
+}
